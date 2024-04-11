@@ -9,7 +9,7 @@ Welcome to the repository for our custom application developed exclusively for D
 
 Below is a video demonstration of the application. It showcases the core functionalities and the user interface.
 
-![Application Demo](demo.mp4)
+[![Watch the video](https://img.youtube.com/vi/nfEp3xyslVI/hqdefault.jpg)](https://youtu.be/nfEp3xyslVI)
 
 ## Confidentiality Notice
 
